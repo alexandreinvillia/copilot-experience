@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "processamento-de-texto-python",
+      "title": "Processamento de Texto com Python",
+      "description": "Trabalhando com strings, I/O de arquivos e manipulacao de texto em Python.",
+      "path": "assignments/processamento-de-texto-python",
+      "dueDate": "2026-04-21",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
